@@ -1,66 +1,63 @@
 body, html{
-margin: 0;
-width: 100%;
-height: 100vh;
-background-color: black;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-color: white;
-font-size: 30px;
+ margin: 0;
+ width: 100%;
+ height: 100vh;
+ background-color: black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ color: white;
+ font-size: 30px;
 }
 
 nav{
-width: 50%;
-height: 200px;
-border: 1px solid white;
-display: flex;
-justify-content: space-around;
-align-items: center;
-flex-direction: row;
+ width: 50%;
+ height: 200px;
+ border: 1px solid white;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ flex-direction: row;
 }
 
 #boutonStart{
-width: 15%;
-height: 60px;
-border: 1px solid white;
-display: flex;
-align-items: center;
-justify-content: center;
-transition: 3s;
+ width: 15%;
+ height: 60px;
+ border: 1px solid white;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ transition: 3s;
 }
-
 
 #boutonStop{
-width: 15%;
-height: 60px;
-border: 1px solid white;
-display: flex;
-align-items: center;
-justify-content: center;
-transition: 3s;
+ width: 15%;
+ height: 60px;
+ border: 1px solid white;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ transition: 3s;
 }
 
-
-
 #boutonReset{
-width: 15%;
-height: 60px;
-border: 1px solid white;
-display: flex;
-align-items: center;
-justify-content: center;
-transition: 3s;
+ width: 15%;
+ height: 60px;
+ border: 1px solid white;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ transition: 3s;
 }
 
 #boxChrono{
-width: 15%;
-height:100px;
-border: 1px solid white;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-transition: 3s;
+ width: 15%;
+ height:100px;
+ border: 1px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ transition: 3s;
 }
